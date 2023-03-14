@@ -1,6 +1,6 @@
 #!/usr/bin/node
-const myVAr = 'X';
-const myARgs = process.argv.splice(2);
+const myVar = 'X';
+const myArgs = process.argv.splice(2);
 const num = Number(myArgs[0]);
 if (isNaN(num)) {
   console.log('Missing size');
