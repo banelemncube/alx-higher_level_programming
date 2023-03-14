@@ -14,4 +14,3 @@ class Square extends prevSquare {
   }
 }
 module.exports = Square;
-
